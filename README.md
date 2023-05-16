@@ -2,6 +2,7 @@
 
 * YouTube Videos
     * <https://www.youtube.com/watch?v=Sbl04kOL1dM&t=1s>
+    * <https://www.youtube.com/watch?v=bfFCnjAy_9s&t=16s>
 
 * when to use server component
     * fetch data
