@@ -5,6 +5,7 @@
     * <https://www.youtube.com/watch?v=bfFCnjAy_9s&t=16s>
     * <https://www.youtube.com/watch?v=YC6LqIYVHxI&t=11s>
     * <https://www.youtube.com/watch?v=UNwIUq9RJJk>
+    * seo: <https://www.youtube.com/watch?v=kRoDYkCxIqE>
 
 * when to use server component
     * fetch data
