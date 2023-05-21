@@ -6,6 +6,7 @@
     * <https://www.youtube.com/watch?v=YC6LqIYVHxI&t=11s>
     * <https://www.youtube.com/watch?v=UNwIUq9RJJk>
     * seo: <https://www.youtube.com/watch?v=kRoDYkCxIqE>
+    * nextjs 13 api routes: <https://www.youtube.com/watch?v=vrR4MlB7nBI>
 
 * when to use server component
     * fetch data
